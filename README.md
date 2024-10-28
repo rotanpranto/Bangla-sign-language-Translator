@@ -1,5 +1,5 @@
 # Bangla-sign-language-Translator
- Abstract—Abstract— 
+ Abstract— 
  
 The human body communicates through
 various meaningful gestures, with sign language using hands
