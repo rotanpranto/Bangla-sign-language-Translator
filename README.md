@@ -11,6 +11,8 @@ Computer Vision for real-time sign language interpretation with
 an accuracy of 94%.
 
  Keywords—
+ 
 Recurrent Neural Network, LSTM, Computer Vi
 sion, Bangla font
-........................................
+
+
